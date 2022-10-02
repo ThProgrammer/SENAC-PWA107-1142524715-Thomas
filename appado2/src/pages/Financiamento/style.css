@@ -1,0 +1,37 @@
+
+
+h3 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-left: 1em;
+}
+
+.valor {
+    align-self: flex-start;
+    gap: 0.8em;
+}
+
+button {
+    margin-top: 5em;
+    border: none;
+    background-color: brown;
+    color: white;
+    padding: 1em 2em;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.texto-financiamento {
+    text-align: center;
+}
+
+.calculo2 {
+    background-color: rgba(0, 0, 0, .2);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 1em 3em 0;
+}
